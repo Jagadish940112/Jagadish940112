@@ -12,7 +12,7 @@ Welcome to my portfolio, where I showcase my projects.
 
 ### 🛠️ Tools
 
-- Spreadsheet: Google Sheets, Microsoft Excel
-- Language: SQL, Python(soon)
-- Database: Google BigQuery, Microsoft SQL Server
+- Spreadsheet: Google Sheets | Microsoft Excel
+- Language: SQL | Python(soon)
+- Database: Google BigQuery | Microsoft SQL Server
 - Visualization/BI: Tableau
